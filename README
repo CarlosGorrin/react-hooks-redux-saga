@@ -1,8 +1,6 @@
-React Redux Router Saga Boilerplate
+Built with React Redux Router Saga 
 
-This repository is created to agilize the beginning of a project and of course, you are interested in using Redux Saga & React Router. That's why I created my own easy boilerplate.
-
-I'm using these powerful libraries
+Movie Search from IMDB API using Redux Saga and Hooks
 
 * Redux - https://github.com/reduxjs/redux
 * Redux Saga - https://github.com/redux-saga/redux-saga
